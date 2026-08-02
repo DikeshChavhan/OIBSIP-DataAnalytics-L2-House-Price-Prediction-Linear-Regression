@@ -126,7 +126,7 @@ These metrics help measure prediction accuracy and overall model performance.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/House-Price-Prediction.git
+git clone https://github.com/DikeshChavhan/OIBSIP-DataAnalytics-L2-House-Price-Prediction-Linear-Regression.git
 ```
 
 ### Navigate to the Project Folder
@@ -188,8 +188,7 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork the 
 
 Aspiring Data Scientist | Machine Learning Engineer
 
-* GitHub: https://github.com/<your-username>
-* LinkedIn: https://linkedin.com/in/<your-linkedin>
+* GitHub: https://github.com/DikeshChavhan
 
 ---
 
