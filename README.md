@@ -49,26 +49,6 @@ Develop a Linear Regression model to predict house prices based on various prope
 
 ---
 
-## 📂 Project Structure
-
-```text
-House-Price-Prediction/
-│
-├── data/
-│   └── train.csv
-│
-├── notebook/
-│   └── house_price_prediction.ipynb
-│
-├── images/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
 ## 📊 Machine Learning Workflow
 
 1. Load Dataset
